@@ -1,5 +1,8 @@
-def calculate(x):
-    return x**2
-    
-x=2
-print(calculate(x))
+def toyou(x):
+    return f"hi {x}"
+
+def add(x):
+    return x + 1
+
+def subtract(x):
+    return x - 1
