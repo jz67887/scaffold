@@ -1,5 +1,5 @@
 pylint
 pytest
 click 
-block
+black
 pytest-cov
